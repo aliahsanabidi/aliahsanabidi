@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aliahsanabidi
-- 👀 I’m interested in working for companies with a constant learning mindset.
-- 🌱 I’m currently learning Node.js (Backend), React/Angular/Vue (Frontend)
-- 💞️ I’m looking to collaborate on projects where I can learn best practices
+- 👀 I’m interested in working for roles involving task automation or general software development.
+- 🌱 I’m currently learning vanilla Python, tkinter (GUI), Django (backend)
+- 💞️ I’m looking to collaborate on projects where I can learn best practices related to Python development
 - 📫 How to reach me aliabidi26@gmail.com
 
 <!---
